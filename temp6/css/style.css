@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    
+}
+header h1{
+
+text-align: center;
+
+padding: 100px 0 60px;
+
+font-weight: 30px;
+
+font-size: 38px;
+}
+.form_design{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+}
+.contact{
+  
+/* display: flex; */
+  
+width: 60%;
+  
+background: #E8EDF0;
+  
+/* margin: 10px; */
+  
+/* margin: 10px; */
+}
+.flex{
+    
+display: flex;
+    
+justify-content: space-between;
+    
+margin-bottom: 20px;
+}
+.contact form{
+
+margin: 35px;
+}
+form{
+    
+/* width: 100%; */
+}
+.flex div{
+    
+width: 48%;
+}
+/* ????? */
+form.flex{
+
+}
+form label{
+
+}
+form input{
+
+width: 100%;
+
+background: transparent;
+
+/* border: navajowhite; */
+
+/* border: navajowhite; */
+
+border: none;
+
+background: #fff;
+
+padding: 10px 5px 10px;
+
+/* margin: 20px; */
+
+/* margin: auto; */
+
+/* margin: 10px; */
+
+margin-top: 10px;
+}
+form textarea{
+
+width: 100%;
+
+border: none;
+
+margin-top: 10px;
+
+padding: 13px 5px;
+}
+.map{
+
+width: 40%;
+}
+.contact h2{
+    
+margin-top: 26px;
+    
+margin-left: 32px;
+    
+margin-bottom: -10px;
+}
+
+form input[type="submit"]{
+    width: auto;
+    padding: 10px 20px;
+    background-color: #2553B8;
+    color: #fff;
+}
+
+.info{
+
+/* padding: 50px 0; */
+
+/* display: flex; */
+
+/* justify-content: space-between; */
+
+padding: 50px 0;
+
+display: flex;
+
+justify-content: space-between;
+
+margin: 0 173px;
+}
+.info_item{
+    
+width: 80%;
+    
+margin: auto;
+    
+/* padding: 50px 0; */
+    
+/* padding: 50px 0; */
+    
+/* display: flex; */
+    
+/* justify-content: space-between; */
+}
+.info_item p{
+ 
+font-size: 14px;
+ 
+text-align: center;
+}
+.icon_box{
+
+/* padding: 50px 0; */
+
+/* padding: 50px 0; */
+
+/* display: flex; */
+
+/* justify-content: space-between; */
+
+height: 50px;
+
+width: 50px;
+
+background: #2553B8;
+
+/* padding-bottom: 7px; */
+
+border-radius: 50px;
+
+text-align: center;
+
+line-height: 50px;
+
+font-size: 22px;
+
+color: #fff;
+
+margin: auto;
+
+/* padding: 0 0 8px 0; */
+
+margin-bottom: 20px;
+}

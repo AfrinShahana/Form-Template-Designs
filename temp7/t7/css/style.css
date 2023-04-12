@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    
+}
+header h2{
+
+text-align: center;
+
+margin-bottom: 57px;
+
+margin-top: 57px;
+
+font-size: 30px;
+}
+.contact07{
+
+width: 80%;
+
+margin: auto;
+
+margin-bottom: 150px;
+
+/* padding-bottom: 103px; */
+}
+.mainContactParent{
+
+display: flex;
+
+justify-content: space-between;
+
+border-radius: 22px;
+
+/* border: 6px solid black; */
+}
+.leftDiv{
+
+width: 50%;
+
+background: #272A34;
+
+/* border-left: 28px; */
+
+border-radius: 0px;
+
+border-bottom-left-radius: 5px;
+
+border-top-left-radius: 5px;
+}
+.leftDiv h3{
+
+color: #fff;
+
+/* margin: 14px; */
+
+margin: 50px 30px 10px 30px;
+
+font-size: 30px;
+}
+form{
+    
+margin: 10;
+    
+margin: 10px 30px 30px 30px;
+}
+form input{margin: 10px 0;width: 100%;border: transparent;}
+form label {
+
+/* margin: 10px 0; */
+}
+button{
+
+}
+form button {
+
+padding: 20px 26px;
+
+background: #D67A0C;
+
+border-radius: 5px;
+
+color: #fff;
+
+font-size: 13px;
+
+border: transparent;
+
+margin-top: 15px;
+}
+.rightDiv{
+
+/* color: blue; */
+
+width: 50%;
+
+/* margin-right: -184px; */
+
+/* margin-left: 80px; */
+
+background: #1C1E25;
+
+border-bottom-right-radius: 5px;
+
+border-top-right-radius: 5px;
+
+padding-bottom: 50px;
+}
+.rightDiv h1{
+
+margin: 45px 30px 30px 30px;
+
+color: #fff;
+
+font-size: 30px;
+
+/* font-style: revert; */
+}
+.rightDiv p{
+
+margin: 10px 30px 20px 30px;
+
+color: #61625A;
+}
+.socialIcon{
+
+}
+.icon1{
+
+display: flex;
+
+margin-left: 40px;
+
+padding-bottom: 20px;
+}
+.icon1 h6{
+
+}
+.icon1 p{
+
+margin-left: 9px;
+
+/* margin-bottom: 48px; */
+
+color: #61625A;
+}
+.icon1 a{
+
+color: #61625A;
+}
+
+/* .rightpaddingall{
+
+}
+.rightDiv rightpaddingall{
+
+}
+.leftdiv lefttpaddingall{
+    
+} */
+textarea{
+    
+width: 100%;
+    
+margin: 10px 0;
+    
+/* border: transparent; */
+    
+margin-bottom: 19px;
+}
+
+.icon1 i{
+    
+height: 50px;
+    
+width: 50px;
+    
+line-height: 50px;
+    
+border-radius: 50px;
+    
+text-align: center;
+    
+font-size: 22px;
+    
+color: #fff;
+    
+/* margin: auto; */
+    
+background: #202229;
+    
+margin-bottom: 20px;
+}
+
+
+span{
+    color: #fff;
+}
+
+
+
+.form-control {
+    height: 52px;
+    background: transparent;
+    color: #757575;
+    font-size: 14px;
+    border-radius: 0px;
+    border: 1px solid #757575;
+    }
+      
+
+.connectForm .form-control {
+        border: none;
+        border-bottom: 1px solid #757575;
+        padding: 0;
+     }
